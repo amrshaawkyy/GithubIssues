@@ -1,0 +1,44 @@
+.Toolbar {
+    height: 48px;
+    width: 94.8%;
+    position: absolute;
+    top: 1.5%;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+.Toolbar nav {
+    height: 100%;
+}
+
+.LogoToolBar {
+    height: 100%;
+}
+
+@media(max-width:499px) {
+    .DestopOnly {
+        display: none;
+    }
+    .MobileOnly img {
+        margin-top: 15px;
+        margin-right: 15px;
+    }
+    .Toolbar {
+        left: 0px;
+        width: 100%;
+       
+    }
+}
+
+@media(min-width:499px) {
+    .MobileOnly {
+        display: none;
+    }
+   
+}

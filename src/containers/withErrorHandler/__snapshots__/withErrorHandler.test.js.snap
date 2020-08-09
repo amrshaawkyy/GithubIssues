@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WithErrorHandler /> should render <Modal /> when error is true 1`] = `ShallowWrapper {}`;

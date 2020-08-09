@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GithubIssues /> should render <GitHubIssue /> when Loading is false 1`] = `ShallowWrapper {}`;
+
+exports[`<GithubIssues /> should render <Spinner /> when Loading is True 1`] = `ShallowWrapper {}`;

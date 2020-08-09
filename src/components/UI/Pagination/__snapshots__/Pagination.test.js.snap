@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IssuesFiltering /> OnClick Change State SortName to Oldest 1`] = `undefined`;
+
+exports[`<IssuesFiltering /> OnClick pageNext change  currentPageNumber to 2 1`] = `undefined`;

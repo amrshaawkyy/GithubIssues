@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> renders text 1`] = `ShallowWrapper {}`;
+
+exports[`<Main /> should render one <ButtonMain /> element 1`] = `ShallowWrapper {}`;

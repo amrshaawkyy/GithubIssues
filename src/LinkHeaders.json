@@ -1,0 +1,4 @@
+{
+    "next": "https://api.github.com/repositories/10270250/issues?state=open&since=2020-07-30T16%3A17%3A05.926Z&per_page=40&sort=created&page=2",
+    "last": "https://api.github.com/repositories/10270250/issues?state=open&since=2020-07-30T16%3A17%3A05.926Z&per_page=40&sort=created&page=2"
+}
