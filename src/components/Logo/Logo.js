@@ -1,5 +1,5 @@
 import React from 'react';
-import DepositSolutionsLogo from '../../assets/Images/Logo.png';
+import DepositSolutionsLogo from '../../assets/Images/Logo1.png';
 import './Logo.css';
 const logo = () => (
     <div className="Logo">
