@@ -1,9 +1,9 @@
 import React from 'react';
-import DepositSolutionsLogo from '../../assets/Images/Logo1.png';
+import GitHubLogo from '../../assets/Images/Logo1.png';
 import './Logo.css';
 const logo = () => (
     <div className="Logo">
-        <img src={DepositSolutionsLogo} alt="DepositSolutions" />
+        <img src={GitHubLogo} alt="GitHubLogo" />
     </div>
 );
 export default logo;

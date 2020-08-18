@@ -2,10 +2,10 @@ import React from 'react';
 import './ButtonMain.css';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
-import DepositSolutionsLogo from '../../../assets/Images/Main.jpg';
+import MainLogo from '../../../assets/Images/Main.jpg';
 const buttonMain = () => {
     const Div = styled.div`
-    background-image: url(${DepositSolutionsLogo});
+    background-image: url(${MainLogo});
    `;
     return (
         <Div className="ButtonMain">

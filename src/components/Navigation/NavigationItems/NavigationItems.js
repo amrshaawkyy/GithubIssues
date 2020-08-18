@@ -7,11 +7,11 @@ import user from '../../../assets/Images/user.png';
 import Vector from '../../../assets/Images/Vector.png';
 const navigationItems = () => (
     <ul className="NavigationItems">
-        <img src={Vector} alt="DepositSolutions" />
-        <img src={ContactSupport} alt="DepositSolutions" />
-        <img className="msgs" src={active} alt="DepositSolutions" />
-        <img src={user} alt="DepositSolutions" />
-        <img src={power} alt="DepositSolutions" />
+        <img src={Vector} alt="GitHubLogo" />
+        <img src={ContactSupport} alt="GitHubLogo" />
+        <img className="msgs" src={active} alt="GitHubLogo" />
+        <img src={user} alt="GitHubLogo" />
+        <img src={power} alt="GitHubLogo" />
     </ul>
 );
 export default navigationItems;
