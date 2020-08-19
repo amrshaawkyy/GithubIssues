@@ -1,5 +1,19 @@
 # PROJECT GithubIssues
 
+## Description
+```
+Data (from GitHub API)
+http request was used to exract the data from ("https://api.github.com/repos/facebook/react/issues")
+
+The applications gets the GitHub Issues and Pull Requests and can be filtered by 'Opened', 'Closed' and Date Picker.
+You can also sort the Issues from latest to Oldest and vice versa.
+
+Hints:
+o Pagination renders the number of pages and both arrows right and left with respect to the change of device whether desktop view or mobile view.
+o GitHub Issues is the main component that contains all the information about the issues, it fetches the data from the API and passes it to the remaining components.
+
+```
+
 ## Requirements
 
 For development, you will only need Node.js installed on your environement.
